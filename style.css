@@ -3,3 +3,7 @@ body {background: lime;}
 h1 {
     color: dodgerblue;
 }
+
+p {
+    font-size: 2rem;
+}
